@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Victor!
 
-- 🔭 Hoje trabalho com PHP
-- 🌱 Estudando Laravel e WordPress
+- 🔭 Hoje trabalho com ReactJs e NextJs
+- 🌱 Estudando Swift e Desenvolvimento IOS
 
 <div>
   <a href="https://github.com/JoaoVictorViana">
